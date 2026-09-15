@@ -1,0 +1,6 @@
+name: Resume Portfolio CI/CD
+
+on:
+  push:
+    branches:
+      - main
